@@ -1,6 +1,8 @@
 You can complete this tutorial with as little as two non-ubiquitous pieces of software: Visual Studio Code (aka VS Code) and its WebAssembly Plugin.
 
 Alternatively, you can dispense with even these modest requirements and run the example code directly from Node.js as described near the end of this article.
+![image](https://github.com/PARTIDOSSR/wasm/assets/53044971/4123ab4a-fd59-4965-895c-6d03e9a8540e)
+
 
 # Components
 The most common scenario today has WebAssembly running in a browser. This may change in the future, but for now this tutorial assumes your goal is browser deployment. Three files are required, which you should create and place into the same directory:
